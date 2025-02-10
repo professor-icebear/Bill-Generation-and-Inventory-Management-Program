@@ -28,10 +28,6 @@ This project is a Python-based tool designed for small shopkeepers to efficientl
    python3 -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
-3. Install dependencies (if a requirements.txt is provided):
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
