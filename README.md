@@ -20,7 +20,7 @@ This project is a Python-based tool designed for small shopkeepers to efficientl
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/professor-icebear/Bill-Generation-and-Inventory-Management-Program.git
    cd Bill-Generation-and-Inventory-Management-Program
    ```
 2. (Optional) Create a virtual environment:
